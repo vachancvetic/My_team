@@ -30,7 +30,7 @@ document.querySelector(".btn").addEventListener("click",function(){
               slidesPerView: 2,
               spaceBetween: 25,
           },
-          430:{
+          130:{
             slidesPerView: 1,
             spaceBetween: 25,
           }
